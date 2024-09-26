@@ -1,6 +1,6 @@
 # Introduction
 
-This repo contains the code and information for the paper "[Characteristics and prevalence of fake social media profiles with AI-generated faces](https://arxiv.org/abs/2401.02627)".
+This repo contains the code and information for the paper "[Characteristics and prevalence of fake social media profiles with AI-generated faces](https://doi.org/10.54501/jots.v2i4.197)".
 
 We analyze the fake accounts using GAN-generated images as their profiles on Twitter.
 
@@ -77,9 +77,13 @@ Their profile images are publicly accessible.
 
 ```bib
 @article{yang2024characteristics,
-  title={Characteristics and prevalence of fake social media profiles with AI-generated faces},
-  author={Yang, Kai-Cheng and Singh, Danishjeet and Menczer, Filippo},
-  journal={Preprint arXiv:2401.02627},
-  year={2024}
+	title={Characteristics and Prevalence of Fake Social Media Profiles with AI-generated Faces},
+	volume={2},
+	DOI={10.54501/jots.v2i4.197},
+	number={4},
+	journal={Journal of Online Trust and Safety},
+	author={Yang, Kai-Cheng and Singh, Danishjeet and Menczer, Filippo},
+	year={2024},
+	month={Sep.}
 }
 ```
